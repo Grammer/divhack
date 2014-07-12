@@ -1,0 +1,1 @@
+This is a tipical attempt to recreate the divhack tasks, nothing else.
